@@ -198,5 +198,3 @@ Set the permissions of "C:\inetpub\wwwroot\osTicket\include\ost-config.php" to "
 Congratulations! You've made it through a tedious process of installing a help desk software by scratch! Now that the osTicket is installed with no errors. You can access your help desk login page at http://localhost/osTicket/scp/login.php. Along with the End Users osTicket URL: http://localhost/osTicket/ you will use for another lesson.
 
 -----
-
-# [Next: osTicket - Post Installation Setup (Part 2)](https://github.com/anumkhanit/post-install-config)
